@@ -1,1686 +1,521 @@
-Name,Orbit Height (km),Repeat Cycle (days),Launched in,Out of service since (years),Organisation
-"
-
-                            ADEOS
-                        
-",797,41,1996,1997,JAXA - Japan
-"
-
-                            ADEOS-II
-                        
-",803,4,2002,2003,JAXA - Japan
+Name,Orbit Height (km),Repeat Cycle (days),Launched in,Out of service since (years),Organisation,Company,Country
 "
 
                             Aeolus
                         
-",320,7,2018, ,ESA
-"
-
-                            ALMAZ-1
-                        
-",370, ,1991,1992,NPO - Mashinostroyeniya
-"
-
-                            ALOS
-                        
-",702,46,2006,2011,JAXA - Japan
-"
-
-                            ALOS-2
-                        
-",628,14,2014, ,JAXA - Japan
-"
-
-                            ALOS-3
-                        
-",669,35,2022, ,JAXA - Japan
-"
-
-                            ALOS-4
-                        
-",628,14,2022, ,JAXA - Japan
-"
-
-                            AlSat-1
-                        
-",686,4,2002,2010,ASAL - Algeria
-"
-
-                            AlSat-1B
-                        
-",680,7,2016, ,ASAL - Algeria
-"
-
-                            AlSat-2A
-                        
-",686, ,2010, ,ASAL - Algeria
-"
-
-                            AlSat-2B
-                        
-",670, ,2016, ,ASAL - Algeria
-"
-
-                            Aqua
-                        
-",705, ,2002, ,NASA - USA
-"
-
-                            ASNARO-1
-                        
-",504, ,2014, ,J-spacesystems - Japan
-"
-
-                            ASNARO-2
-                        
-",504, ,2018, ,J-spacesystems - Japan
-"
-
-                            AURA
-                        
-",705,16,2004, ,NASA - USA
-"
-
-                            BEIJING-1
-                        
-",686, ,2005,2013,NRSCC - China
+",320,7,2018, ,ESA,ESA,N/A
 "
 
                             BILSAT
                         
-",686, ,2003,2006,TUBITAK UZAY/STRI- Turkey
+",686, ,2003,2006,TUBITAK UZAY/STRI- Turkey,TUBITAK UZAY/STRI,Turkey
 "
 
                             BIOMASS
                         
-",660,26,2023, ,ESA
-"
-
-                            BIRD
-                        
-",572, ,2001,2006,DLR - Germany
-"
-
-                            BlackSky Global 1
-                        
-",500, ,2018, ,BlackSky - USA
-"
-
-                            BlackSky Global 2
-                        
-",500, ,2018, ,BlackSky - USA
-"
-
-                            BlackSky Global 3
-                        
-",500, ,2019, ,BlackSky - USA
-"
-
-                            BlackSky Global 4
-                        
-",500, ,2019, ,BlackSky - USA
-"
-
-                            BlackSky Global 5-24
-                        
-",500, ,2020, ,BlackSky - USA
-"
-
-                            CALIPSO
-                        
-",705, ,2006, ,NASA - USA
-"
-
-                            CartoSat-1 (IRS-P5)
-                        
-",618,116,2005,2019,ISRO - India
-"
-
-                            CartoSat-2
-                        
-",635,4,2007,2019,ISRO - India
-"
-
-                            CartoSat-2 Series (2C)
-                        
-",505, ,2016, ,ISRO - India
-"
-
-                            CartoSat-2 Series (2D)
-                        
-",505, ,2017, ,ISRO - India
-"
-
-                            Cartosat-2 Series (2E)
-                        
-",505, ,2017, ,ISRO - India
-"
-
-                            Cartosat-2 Series (2F)
-                        
-",505, ,2018, ,ISRO - India
-"
-
-                            CartoSat-2A
-                        
-",635, ,2008, ,ISRO - India
-"
-
-                            CartoSat-2B
-                        
-",637,4,2010, ,ISRO - India
-"
-
-                            CartoSat-3
-                        
-",509, ,2019, ,ISRO - India
-"
-
-                            CBERS-1
-                        
-",778,26,1999,2003,INPE - Brazil
-"
-
-                            CBERS-2
-                        
-",778,26,2003,2009,INPE - Brazil
-"
-
-                            CBERS-3
-                        
-",778,26,2013,2013,INPE - Brazil
-"
-
-                            CBERS-4
-                        
-",778,26,2014, ,INPE - Brazil
-"
-
-                            CBERS-4A
-                        
-",628,31,2019, ,INPE - Brazil
-"
-
-                            CFOSAT
-                        
-",519,13,2018, ,CNSA - China
-"
-
-                            CloudSat
-                        
-",705, ,2006,2020,NASA - USA
-"
-
-                            COMS-1
-                        
-",35786, ,2010, ,KARI - Korea
+",660,26,2023, ,ESA,ESA,N/A
 "
 
                             Coriolis
                         
-",830,8,2003, ,US Naval Research Lab
-"
-
-                            COSMO-SkyMed
-                        
-",620,16,2007, ,ASI - Italy
-"
-
-                            Cosmo-SkyMed 2nd Gen (CSG-1)
-                        
-",619,16,2019, ,ASI - Italy
-"
-
-                            Cosmo-SkyMed 2nd Gen (CSG-2)
-                        
-",619,16,2022, ,ASI - Italy
-"
-
-                            Cosmos
-                        
-",800, ,1987,2008,ROSCOSMOS - Russia
+",830,8,2003, ,US Naval Research Lab,US Naval Research Lab,USA
 "
 
                             CryoSat-2
                         
-",717,369,2010, ,ESA
-"
-
-                            CYGNSS
-                        
-",500, ,2016, ,NASA - USA
-"
-
-                            DEMETER
-                        
-",715, ,2004,2010,CNES - France
-"
-
-                            DMC-3/TripleSat
-                        
-",647,1,2015, ,SSTL - UK
+",717,369,2010, ,ESA,ESA,N/A
 "
 
                             DMSP-F16
                         
-",830, ,2003, ,US Department of Defense
-"
-
-                            Earth Probe
-                        
-",740, ,1996,2005,NASA - USA
+",830, ,2003, ,US Department of Defense,US Department of Defense,USA
 "
 
                             EarthCARE
                         
-",393,25,2023, ,ESA
-"
-
-                            ECOSTRESS on ISS
-                        
-",408,3,2018, ,NASA - USA
-"
-
-                            Electro-1 (GOMS)
-                        
-", , ,1994,2000,ROSHYDROMET - Russia
-"
-
-                            Elektro-L
-                        
-",36000, ,2011, ,ROSHYDROMET - Russia
-"
-
-                            EnMAP
-                        
-",652,27,2022, ,DLR - Germany
+",393,25,2023, ,ESA,ESA,N/A
 "
 
                             ENVISAT
                         
-",783,35,2002,2012,ESA
-"
-
-                            EO-1
-                        
-",705,16,2000,2017,NASA - USA
-"
-
-                            EO-3 GIFTS
-                        
-",36000, , , ,NASA - USA
-"
-
-                            EOS-3 (GISAT-1)
-                        
-",35786, ,2021,2021,ISRO - India
-"
-
-                            EOS-4 (RISAT-1B)
-                        
-",529, ,2022, ,ISRO - India
+",783,35,2002,2012,ESA,ESA,N/A
 "
 
                             EROS-A
                         
-",530,4,2000,2016,ImageSAT International
+",530,4,2000,2016,ImageSAT International,ImageSAT International,N/A
 "
 
                             EROS-B
                         
-",520,4,2006, ,ImageSAT International
+",520,4,2006, ,ImageSAT International,ImageSAT International,N/A
 "
 
                             EROS-C
                         
-",510, ,2019, ,ImageSAT International
+",510, ,2019, ,ImageSAT International,ImageSAT International,N/A
 "
 
                             ERS-1
                         
-",785,35,1991,2000,ESA
+",785,35,1991,2000,ESA,ESA,N/A
 "
 
                             ERS-2
                         
-",785,35,1995,2011,ESA
-"
-
-                            FedSat
-                        
-",803, ,2002,2007,CSIRO - Australia
-"
-
-                            Fengyun-1C/1D
-                        
-",863,12,1999,2012,NSMC - China
-"
-
-                            Fengyun-2A
-                        
-", , ,1997,2000,NSMC - China
-"
-
-                            Fengyun-2B
-                        
-", , ,2000,2006,NSMC - China
-"
-
-                            FengYun-2E
-                        
-",36000, ,2008,2018,NSMC - China
-"
-
-                            FengYun-2H
-                        
-",3600, ,2018, ,NSMC - China
-"
-
-                            FengYun-3A
-                        
-",836, ,2008,2015,NSMC - China
-"
-
-                            FengYun-3B
-                        
-",836, ,2010, ,NSMC - China
-"
-
-                            FengYun-3C
-                        
-",836, ,2013, ,NSMC - China
-"
-
-                            FengYun-4A
-                        
-",35786, ,2016, ,CMA - China
+",785,35,1995,2011,ESA,ESA,N/A
 "
 
                             FLEX
                         
-",815,27,2024, ,ESA
-"
-
-                            FORMOSAT-1
-                        
-",600, ,1999,2004,NSPO - Taiwan
-"
-
-                            FORMOSAT-2
-                        
-",891, ,2004,2016,NSPO - Taiwan
-"
-
-                            FORMOSAT-3 / COSMIC
-                        
-",800, ,2006,2020,NSPO - Taiwan
-"
-
-                            FORMOSAT-5
-                        
-",720, ,2017, ,NSPO - Taiwan
-"
-
-                            FORMOSAT-7 / COSMIC-2
-                        
-",550, ,2019, ,NSPO - Taiwan
-"
-
-                            GaoFen-5
-                        
-", , ,2018, ,CNSA - China
-"
-
-                            GCOM-C1
-                        
-",798,2,2017, ,JAXA - Japan
-"
-
-                            GCOM-W1
-                        
-",700,2,2012, ,JAXA - Japan
-"
-
-                            GEO-KOMPSAT-2A
-                        
-",35786, ,2018, ,KARI - Korea
-"
-
-                            GEO-KOMPSAT-2B
-                        
-",35786, ,2020, ,KARI - Korea
-"
-
-                            GeoEye-1
-                        
-",681, ,2008, ,Maxar/DigitalGlobe - USA
+",815,27,2024, ,ESA,ESA,N/A
 "
 
                             Geosat Follow-On (GFO)
                         
-",800,17,1998,2008,US Naval Research Lab
-"
-
-                            Geosat-1 (Deimos-1)
-                        
-",650,3,2009, ,GEOSAT - Spain
-"
-
-                            Geosat-2 (Deimos-2)
-                        
-",620,2,2014, ,GEOSAT - Spain
+",800,17,1998,2008,US Naval Research Lab,US Naval Research Lab,USA
 "
 
                             GeoXO
                         
-", , ,2035, ,NOAA
-"
-
-                            GISAT-2 - GEO Imaging Satellite
-                        
-",35786, ,2022, ,ISRO - India
-"
-
-                            GLORY
-                        
-",705, ,2011,2011,NASA - USA
-"
-
-                            GMS-5
-                        
-", , ,1995,2003,JMA - Japan
+", , ,2035, ,NOAA,NOAA,USA
 "
 
                             GOCE
                         
-",235, ,2009,2013,ESA
+",235, ,2009,2013,ESA,ESA,N/A
 "
 
                             GOES-10
                         
-",35800, ,1997,2009,NOAA
+",35800, ,1997,2009,NOAA,NOAA,USA
 "
 
                             GOES-11
                         
-",35800, ,2000,2011,NOAA
+",35800, ,2000,2011,NOAA,NOAA,USA
 "
 
                             GOES-12
                         
-",35800, ,2001,2013,NOAA
+",35800, ,2001,2013,NOAA,NOAA,USA
 "
 
                             GOES-13
                         
-",35800,0.01,2006,2018,NOAA
+",35800,0.01,2006,2018,NOAA,NOAA,USA
 "
 
                             GOES-14
                         
-",35800, ,2009, ,NOAA
+",35800, ,2009, ,NOAA,NOAA,USA
 "
 
                             GOES-15
                         
-",35800, ,2010, ,NOAA
+",35800, ,2010, ,NOAA,NOAA,USA
 "
 
                             GOES-16 (GOES-EAST)
                         
-",35786, ,2016, ,NOAA
+",35786, ,2016, ,NOAA,NOAA,USA
 "
 
                             GOES-17 (GOES-WEST)
                         
-",35786, ,2018, ,NOAA
+",35786, ,2018, ,NOAA,NOAA,USA
 "
 
                             GOES-18
                         
-",35888, ,2022, ,NOAA
+",35888, ,2022, ,NOAA,NOAA,USA
 "
 
                             GOES-8
                         
-",35800, ,1994,2004,NOAA
+",35800, ,1994,2004,NOAA,NOAA,USA
 "
 
                             GOES-9
                         
-",35800, ,1995,2007,NOAA
+",35800, ,1995,2007,NOAA,NOAA,USA
 "
 
                             GOES-U
                         
-", , ,2024, ,NOAA
+", , ,2024, ,NOAA,NOAA,USA
 "
 
                             GOKTURK-2
                         
-",700,2.5,2012, ,TUBITAK UZAY/STRI- Turkey
-"
-
-                            GOSAT
-                        
-",666,3,2009, ,JAXA - Japan
-"
-
-                            GOSAT-2
-                        
-",613,6,2018, ,JAXA - Japan
-"
-
-                            GPM Core
-                        
-",407, ,2014, ,NASA - USA
-"
-
-                            GRACE
-                        
-",437, ,2002,2017,NASA - USA
-"
-
-                            GRACE-FO
-                        
-",490,30,2018, ,NASA - USA
-"
-
-                            Himawari-8
-                        
-",35800,0.0069,2014, ,JMA - Japan
-"
-
-                            Himawari-9
-                        
-",35800, ,2016, ,JMA - Japan
-"
-
-                            HJ - 1A
-                        
-",649,31,2008, ,CAST - China
-"
-
-                            HY - 1B
-                        
-",798,7,2007,2016,CAST - China
-"
-
-                            HysIS
-                        
-",636, ,2018, ,ISRO - India
-"
-
-                            ICESat
-                        
-",600, ,2003,2010,NASA - USA
-"
-
-                            ICESat-2
-                        
-",498,91,2018, ,NASA - USA
-"
-
-                            ICEYE-X1
-                        
-",505, ,2018,2018,ICEYE - Finland
-"
-
-                            ICEYE-X2
-                        
-",590, ,2018, ,ICEYE - Finland
-"
-
-                            ICEYE-X4
-                        
-",590, ,2019, ,ICEYE - Finland
-"
-
-                            ICEYE-X5
-                        
-",565, ,2019, ,ICEYE - Finland
-"
-
-                            IKONOS
-                        
-",681,3,1999,2015,Maxar/DigitalGlobe - USA
-"
-
-                            IMS-1
-                        
-",635, ,2008, ,ISRO - India
-"
-
-                            INSAT-2A
-                        
-", , ,1992,2002,ISRO - India
-"
-
-                            INSAT-2B
-                        
-", , ,1993,2004,ISRO - India
-"
-
-                            INSAT-2E
-                        
-", , ,1999,2012,ISRO - India
-"
-
-                            INSAT-3D
-                        
-",35786, ,2013, ,ISRO - India
-"
-
-                            IRS-1A
-                        
-",904,22,1988,1995,ISRO - India
-"
-
-                            IRS-1B
-                        
-",904,22,1991,2003,ISRO - India
-"
-
-                            IRS-1C
-                        
-",817,24,1995,2007,ISRO - India
-"
-
-                            IRS-1D
-                        
-",824,25,1997,2010,ISRO - India
-"
-
-                            IRS-P2
-                        
-",817,24,1994,1997,ISRO - India
-"
-
-                            IRS-P3
-                        
-",817,5,1996,2006,ISRO - India
-"
-
-                            Jason-1
-                        
-",1337,10,2001,2013,NASA - USA
+",700,2.5,2012, ,TUBITAK UZAY/STRI- Turkey,TUBITAK UZAY/STRI,Turkey
 "
 
                             Jason-2
                         
-",1336,9.9,2008,2019,NOAA
+",1336,9.9,2008,2019,NOAA,NOAA,USA
 "
 
                             Jason-3
                         
-",1336,9.9,2016, ,NOAA
-"
-
-                            JERS-1
-                        
-",568,44,1992,1998,JAXA - Japan
+",1336,9.9,2016, ,NOAA,NOAA,USA
 "
 
                             JPSS-2
                         
-",824, ,2022, ,NOAA
+",824, ,2022, ,NOAA,NOAA,USA
 "
 
                             JPSS-3
                         
-", , ,2028, ,NOAA
+", , ,2028, ,NOAA,NOAA,USA
 "
 
                             JPSS-4
                         
-", , ,2032, ,NOAA
-"
-
-                            Kanopus-V1
-                        
-",510,17,2012, ,ROSCOSMOS - Russia
-"
-
-                            KANOPUS-V3
-                        
-",510,5,2018, ,ROSCOSMOS - Russia
-"
-
-                            KANOPUS-V4
-                        
-",510,5,2018, ,ROSCOSMOS - Russia
-"
-
-                            KANOPUS-V5
-                        
-",510, ,2018, ,ROSCOSMOS - Russia
-"
-
-                            KANOPUS-V6
-                        
-",510, ,2018, ,ROSCOSMOS - Russia
-"
-
-                            KOMPSAT-1
-                        
-",685,28,1999,2007,KARI - Korea
-"
-
-                            KOMPSAT-2
-                        
-",685,28,2006,2015,KARI - Korea
-"
-
-                            KOMPSAT-3
-                        
-",685,28,2012, ,KARI - Korea
-"
-
-                            KOMPSAT-3A
-                        
-",528,28,2015, ,KARI - Korea
-"
-
-                            KOMPSAT-5
-                        
-",550,28,2013, ,KARI - Korea
-"
-
-                            KOMPSAT-6
-                        
-",505,11,2022, ,KARI - Korea
-"
-
-                            KOMPSAT-7
-                        
-",685,28,2022, ,KARI - Korea
-"
-
-                            Landsat 1
-                        
-",907,18,1972,1978,NASA - USA
-"
-
-                            Landsat 2
-                        
-",908,18,1975,1982,NASA - USA
-"
-
-                            Landsat 3
-                        
-",915,18,1978,1983,NASA - USA
-"
-
-                            Landsat 4
-                        
-",705,16,1982,2001,NASA - USA
-"
-
-                            Landsat 5
-                        
-",705,16,1984,2013,NASA - USA
-"
-
-                            Landsat 7
-                        
-",705,16,1999, ,NASA - USA
-"
-
-                            Landsat 8
-                        
-",705,16,2013, ,NASA - USA
-"
-
-                            Landsat 9
-                        
-",705,16,2021, ,NASA - USA
-"
-
-                            LAPAN-TUBSAT
-                        
-",625, ,2007, ,LAPAN - Indonesia
-"
-
-                            MEGHA-TROPIQUES
-                        
-",867, ,2011, ,CNES - France
-"
-
-                            MERLIN
-                        
-",506,28,2024, ,DLR - Germany
-"
-
-                            METEOR-3M N1
-                        
-",1012,3,2001,2006,ROSHYDROMET - Russia
-"
-
-                            Meteor-M N2-2
-                        
-",821, ,2019, ,ROSHYDROMET - Russia
-"
-
-                            Meteor-M1
-                        
-",832, ,2009,2014,ROSHYDROMET - Russia
-"
-
-                            Meteor-M2
-                        
-",825, ,2014, ,ROSHYDROMET - Russia
+", , ,2032, ,NOAA,NOAA,USA
 "
 
                             Meteosat 5
                         
-",35786, ,1991,2007,EUMETSAT
+",35786, ,1991,2007,EUMETSAT,EUMETSAT,IGO
 "
 
                             Meteosat 6
                         
-",35786, ,1993,2011,EUMETSAT
+",35786, ,1993,2011,EUMETSAT,EUMETSAT,IGO
 "
 
                             Meteosat 7
                         
-",36000,0.01,1997,2017,EUMETSAT
+",36000,0.01,1997,2017,EUMETSAT,EUMETSAT,IGO
 "
 
                             Meteosat 8
                         
-",36000,0.01,2002, ,EUMETSAT
+",36000,0.01,2002, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Meteosat 9
                         
-",36000,0.003,2005, ,EUMETSAT
+",36000,0.003,2005, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Meteosat-10
                         
-",36000,0.01,2012, ,EUMETSAT
+",36000,0.01,2012, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Meteosat-11
                         
-",36000,0.01,2015, ,EUMETSAT
+",36000,0.01,2015, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-A
                         
-",817,29,2006,2021,EUMETSAT
+",817,29,2006,2021,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-B
                         
-",817,29,2012, ,EUMETSAT
+",817,29,2012, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-C
                         
-",817,29,2018, ,EUMETSAT
+",817,29,2018, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MetOp-SG A1
                         
-",817,29,2024, ,EUMETSAT
+",817,29,2024, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-SG A2
                         
-",817,29,2031, ,EUMETSAT
+",817,29,2031, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-SG A3
                         
-",817,29,2036, ,EUMETSAT
+",817,29,2036, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-SG B1
                         
-",817,29,2025, ,EUMETSAT
+",817,29,2025, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-SG B2
                         
-",817,29,2032, ,EUMETSAT
+",817,29,2032, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Metop-SG B3
                         
-",817,29,2039, ,EUMETSAT
-"
-
-                            MOS-1
-                        
-",909,17,1987,1995,JAXA - Japan
-"
-
-                            MOS-1b
-                        
-",909,17,1990,1996,JAXA - Japan
+",817,29,2039, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTG-I1
                         
-",35786, ,2022, ,EUMETSAT
+",35786, ,2022, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTG-I2
                         
-",35786, ,2025, ,EUMETSAT
+",35786, ,2025, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTG-I3
                         
-",35786, ,2032, ,EUMETSAT
+",35786, ,2032, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTG-I4
                         
-",35786, ,2042, ,EUMETSAT
+",35786, ,2042, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTG-S1
                         
-",35786,0.04166,2024, ,EUMETSAT
+",35786,0.04166,2024, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTG-S2
                         
-",35786,0.04166,2034, ,EUMETSAT
+",35786,0.04166,2034, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             MTI
                         
-",575, ,2000, ,US Department of Energy
-"
-
-                            MTSAT-1R
-                        
-",35800, ,2005,2010,JMA - Japan
-"
-
-                            MTSAT-2
-                        
-",35800, ,2006,2016,JMA - Japan
-"
-
-                            NigeriaSat - 1
-                        
-",686, ,2003,2012,NASRDA - Nigeria
-"
-
-                            NigeriaSat - 2
-                        
-",700, ,2011, ,NASRDA - Nigeria
-"
-
-                            NigeriaSat - X
-                        
-",700, ,2011, ,NASRDA - Nigeria
-"
-
-                            NIMBUS-7
-                        
-",955,6,1978,1994,NASA - USA
-"
-
-                            NISAR
-                        
-", , ,2023, ,NASA - USA
+",575, ,2000, ,US Department of Energy,US Department of Energy,USA
 "
 
                             NOAA-10
                         
-",833,11,1986,2001,NOAA
+",833,11,1986,2001,NOAA,NOAA,USA
 "
 
                             NOAA-11
                         
-",870,11,1988,2004,NOAA
+",870,11,1988,2004,NOAA,NOAA,USA
 "
 
                             NOAA-12
                         
-",833,11,1991,2007,NOAA
+",833,11,1991,2007,NOAA,NOAA,USA
 "
 
                             NOAA-14
                         
-",870,11,1994,2007,NOAA
+",870,11,1994,2007,NOAA,NOAA,USA
 "
 
                             NOAA-15
                         
-",833,11,1998, ,NOAA
+",833,11,1998, ,NOAA,NOAA,USA
 "
 
                             NOAA-16
                         
-",870,11,2000,2014,NOAA
+",870,11,2000,2014,NOAA,NOAA,USA
 "
 
                             NOAA-17
                         
-",833,11,2002,2013,NOAA
+",833,11,2002,2013,NOAA,NOAA,USA
 "
 
                             NOAA-18
                         
-",854,11,2005, ,NOAA
+",854,11,2005, ,NOAA,NOAA,USA
 "
 
                             NOAA-19
                         
-",870, ,2009, ,NOAA
+",870, ,2009, ,NOAA,NOAA,USA
 "
 
                             NOAA-20 (JPSS-1)
                         
-",824,20,2017, ,NOAA
-"
-
-                            NovaSAR-1
-                        
-",580,14,2018, ,SSTL - UK
-"
-
-                            OceanSat-1
-                        
-",720,2,1999,2010,ISRO - India
-"
-
-                            OceanSat-2
-                        
-",720,2,2009, ,ISRO - India
-"
-
-                            OceanSat-3
-                        
-",720,2,2022, ,ISRO - India
-"
-
-                            OCO-2
-                        
-",705,16,2014, ,NASA - USA
-"
-
-                            OCO-3 on ISS
-                        
-",407, ,2019, ,NASA - USA
-"
-
-                            ODIN
-                        
-",625, ,2001, ,SNSB - Sweden
-"
-
-                            PACE
-                        
-",676, ,2023, ,NASA - USA
-"
-
-                            Parasol
-                        
-",705, ,2004,2013,CNES - France
-"
-
-                            Planet - Dove
-                        
-",400, ,2015, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 1c
-                        
-",600, ,2014, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 2k
-                        
-",455, ,2017, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 2p
-                        
-",495, ,2016, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 3k
-                        
-",485, ,2018, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 3m
-                        
-",510, ,2017, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 3p
-                        
-",495, ,2017, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 3p'
-                        
-",500, ,2018, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 3r
-                        
-",485, ,2018, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 3s
-                        
-",585, ,2018, ,Planet - USA
-"
-
-                            Planet - Dove, Flock 4a
-                        
-",500, ,2019, ,Planet - USA
+",824,20,2017, ,NOAA,NOAA,USA
 "
 
                             Pleiades 1A
                         
-",694,26,2011, ,Airbus Defence and Space
+",694,26,2011, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Pleiades 1B
                         
-",694,26,2012, ,Airbus Defence and Space
+",694,26,2012, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Pleiades Neo 3
                         
-",620, ,2021, ,Airbus Defence and Space
+",620, ,2021, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Pleiades Neo 4
                         
-",620, ,2021, ,Airbus Defence and Space
+",620, ,2021, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Pleiades Neo 5
                         
-",620, ,2022, ,Airbus Defence and Space
+",620, ,2022, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Pleiades Neo 6
                         
-",620, ,2022, ,Airbus Defence and Space
-"
-
-                            PRIRODA-MIR
-                        
-",400, ,1996,2001,ROSCOSMOS - Russia
-"
-
-                            PRISMA
-                        
-",615,29,2019, ,ASI - Italy
+",620, ,2022, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             PROBA-1
                         
-",615,7,2001, ,ESA
+",615,7,2001, ,ESA,ESA,N/A
 "
 
                             PROBA-V
                         
-",820,1,2013,2021,ESA
-"
-
-                            Quickbird
-                        
-",450, ,2001,2015,Maxar/DigitalGlobe - USA
-"
-
-                            QuikSCAT
-                        
-",803, ,1999,2018,NASA - USA
-"
-
-                            RADARSAT Constellation Mission
-                        
-",600,12,2019, ,CSA - Canadian Space Agency
-"
-
-                            RADARSAT-1
-                        
-",798,24,1995,2013,CSA - Canadian Space Agency
-"
-
-                            RADARSAT-2
-                        
-",798,24,2007, ,MDA - Canada
-"
-
-                            RapidEye
-                        
-",630,5.5,2008,2020,Planet - USA
+",820,1,2013,2021,ESA,ESA,N/A
 "
 
                             RASAT
                         
-",700,4,2011, ,TUBITAK UZAY/STRI- Turkey
-"
-
-                            RazakSAT
-                        
-",685, ,2009, ,ATSB - Malaysia
-"
-
-                            RESOURCESAT-1 (IRS-P6)
-                        
-",817,24,2003,2013,ISRO - India
-"
-
-                            RESOURCESAT-2
-                        
-",817,24,2011, ,ISRO - India
-"
-
-                            RESOURCESAT-2A
-                        
-",817,24,2016, ,ISRO - India
-"
-
-                            Resurs DK1
-                        
-",480, ,2006,2016,ROSCOSMOS - Russia
-"
-
-                            RESURS-O-1
-                        
-",835, ,1998, ,ROSCOSMOS - Russia
-"
-
-                            RESURS-O1-3
-                        
-",678,21,1994, ,ROSCOSMOS - Russia
-"
-
-                            RISAT-1
-                        
-",536,25,2012,2017,ISRO - India
-"
-
-                            RISAT-2
-                        
-",550, ,2009, ,ISRO - India
-"
-
-                            RISAT-2B
-                        
-",440, ,2019, ,ISRO - India
-"
-
-                            SAC-C
-                        
-",705,16,2000,2013,CONAE - Argentina
-"
-
-                            SAC-D (Aquarius)
-                        
-",657, ,2011,2015,NASA - USA
-"
-
-                            SAOCOM-1A
-                        
-",620,8,2018, ,CONAE - Argentina
-"
-
-                            SAOCOM-1B
-                        
-",620,8,2020, ,CONAE - Argentina
-"
-
-                            SAR-XL (OptiSAR)
-                        
-", , ,2023, ,UrtheCast - Canada
-"
-
-                            SARAL/AltiKa
-                        
-",800,35,2013, ,CNES - France
-"
-
-                            ScatSat-1
-                        
-",720, ,2016, ,ISRO - India
-"
-
-                            SCISAT
-                        
-",650, ,2003, ,CSA - Canadian Space Agency
-"
-
-                            Seasat
-                        
-",800, ,1978,1978,NASA - USA
+",700,4,2011, ,TUBITAK UZAY/STRI- Turkey,TUBITAK UZAY/STRI,Turkey
 "
 
                             Sentinel-1A
                         
-",693,6,2014, ,ESA
+",693,6,2014, ,ESA,ESA,N/A
 "
 
                             Sentinel-1B
                         
-",693,6,2016, ,ESA
+",693,6,2016, ,ESA,ESA,N/A
 "
 
                             Sentinel-1C
                         
-",693, ,2022, ,ESA
+",693, ,2022, ,ESA,ESA,N/A
 "
 
                             Sentinel-1D
                         
-",693, ,2023, ,ESA
+",693, ,2023, ,ESA,ESA,N/A
 "
 
                             Sentinel-2A
                         
-",786,5,2015, ,ESA
+",786,5,2015, ,ESA,ESA,N/A
 "
 
                             Sentinel-2B
                         
-",786,5,2017, ,ESA
+",786,5,2017, ,ESA,ESA,N/A
 "
 
                             Sentinel-2C
                         
-",786, ,2024, ,ESA
+",786, ,2024, ,ESA,ESA,N/A
 "
 
                             Sentinel-2D
                         
-",786, ,2025, ,ESA
+",786, ,2025, ,ESA,ESA,N/A
 "
 
                             Sentinel-3A
                         
-",814,27,2016, ,ESA
+",814,27,2016, ,ESA,ESA,N/A
 "
 
                             Sentinel-3B
                         
-",814, ,2018, ,ESA
+",814, ,2018, ,ESA,ESA,N/A
 "
 
                             Sentinel-3C
                         
-",814, ,2023, ,ESA
+",814, ,2023, ,ESA,ESA,N/A
 "
 
                             Sentinel-3D
                         
-",814, ,2025, ,ESA
+",814, ,2025, ,ESA,ESA,N/A
 "
 
                             Sentinel-5P
                         
-",824,17,2017, ,ESA
+",824,17,2017, ,ESA,ESA,N/A
 "
 
                             Sentinel-6A/Jason-CS-A
                         
-",1336,10,2020, ,EUMETSAT
+",1336,10,2020, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             Sentinel-6B/Jason-CS-B
                         
-",1336,10,2026, ,EUMETSAT
-"
-
-                            SICH - 1M
-                        
-", , ,2004,2007,NSAU - Ukraine
-"
-
-                            SkySat 14-15
-                        
-",505, ,2018, ,Planet - USA
-"
-
-                            SkySat-1
-                        
-",578, ,2013, ,Planet - USA
-"
-
-                            SkySat-2
-                        
-",637, ,2014, ,Planet - USA
-"
-
-                            SkySat-3
-                        
-",515, ,2016, ,Planet - USA
-"
-
-                            SkySat-4-7
-                        
-",500, ,2016, ,Planet - USA
-"
-
-                            SkySat-8-13
-                        
-",500, ,2017, ,Planet - USA
-"
-
-                            SMAP
-                        
-",685,3,2015, ,NASA - USA
+",1336,10,2026, ,EUMETSAT,EUMETSAT,IGO
 "
 
                             SMOS
                         
-",758,3,2009, ,ESA
-"
-
-                            SORCE
-                        
-",645,1,2003,2020,NASA - USA
-"
-
-                            SPOT 1
-                        
-",832,26,1986,2003,CNES - France
-"
-
-                            SPOT 2
-                        
-",832,26,1990,2009,CNES - France
-"
-
-                            SPOT 3
-                        
-",832,26,1993,1996,CNES - France
-"
-
-                            SPOT 4
-                        
-",832,26,1998,2013,CNES - France
-"
-
-                            SPOT 5
-                        
-",832,26,2002,2015,CNES - France
+",758,3,2009, ,ESA,ESA,N/A
 "
 
                             SPOT 6
                         
-",694,26,2012, ,Airbus Defence and Space
+",694,26,2012, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             SPOT 7
                         
-",694,26,2014, ,Airbus Defence and Space
-"
-
-                            SRTM
-                        
-",233, ,2000,2000,NASA - USA
+",694,26,2014, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             SSOT
                         
-", , ,2011, ,Airbus Defence and Space
+", , ,2011, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Suomi NPP
                         
-",824,16,2011, ,NOAA
+",824,16,2011, ,NOAA,NOAA,USA
 "
 
                             SWARM
                         
-",530, ,2013, ,ESA
-"
-
-                            SWOT
-                        
-",891,21,2022, ,NASA - USA
-"
-
-                            Tandem-L
-                        
-",760,8,2024, ,DLR - Germany
-"
-
-                            TanDEM-X
-                        
-",515,11,2010, ,DLR - Germany
-"
-
-                            TARANIS
-                        
-",676, ,2020,2020,CNES - France
-"
-
-                            TecSAR
-                        
-",800,36,2008, ,IAI - Israel
-"
-
-                            TEMPO
-                        
-",35786, ,2022, ,NASA - USA
-"
-
-                            Terra
-                        
-",705,16,1999, ,NASA - USA
-"
-
-                            TerraSAR-X
-                        
-",514,11,2007, ,DLR - Germany
-"
-
-                            THEOS (Thaichote)
-                        
-",822, ,2008, ,GISTDA - Thailand
-"
-
-                            TIMED
-                        
-",625, ,2001, ,NASA - USA
-"
-
-                            TOPEX/Poseidon
-                        
-",1336,10,1992,2005,NASA - USA
+",530, ,2013, ,ESA,ESA,N/A
 "
 
                             TopSat
                         
-",686,4,2005,2009,UK Space Agency
-"
-
-                            TRMM
-                        
-",350,0.5,1997,2015,NASA - USA
-"
-
-                            UARS
-                        
-",470, ,1991,2005,NASA - USA
+",686,4,2005,2009,UK Space Agency,UK Space Agency,UK
 "
 
                             UK-DMC-1
                         
-",686, ,2003,2011,UK Space Agency
-"
-
-                            UK-DMC-2
-                        
-",686, ,2009, ,SSTL - UK
-"
-
-                            UrtheDaily
-                        
-", , ,2023, ,UrtheCast - Canada
-"
-
-                            VENUS
-                        
-",720,2,2017, ,CNES - France
+",686, ,2003,2011,UK Space Agency,UK Space Agency,UK
 "
 
                             Vision-1 (SSTL - S1-4)
                         
-",583,1,2018, ,Airbus Defence and Space
+",583,1,2018, ,Airbus Defence and Space,Airbus Defence and Space,N/A
 "
 
                             Vivid-i Constellation
                         
-",500,0.5,2023, ,earth-i
+",500,0.5,2023, ,earth-i,earth-i,N/A
 "
 
                             VividX2
                         
-",505, ,2018, ,earth-i
+",505, ,2018, ,earth-i,earth-i,N/A
 "
 
                             VNREDSat-1A
                         
-",680, ,2013, ,Airbus Defence and Space
-"
-
-                            Vulkan-Kompas-2
-                        
-",500, ,2005,2006,ROSCOSMOS - Russia
-"
-
-                            WorldView-1
-                        
-",496, ,2007, ,Maxar/DigitalGlobe - USA
-"
-
-                            WorldView-2
-                        
-",770,1.1,2009, ,Maxar/DigitalGlobe - USA
-"
-
-                            WorldView-3
-                        
-",617,1,2014, ,Maxar/DigitalGlobe - USA
-"
-
-                            WorldView-4
-                        
-",617,1,2016,2019,Maxar/DigitalGlobe - USA
-"
-
-                            WorldView-Legion
-                        
-",450, ,2022, ,Maxar/DigitalGlobe - USA
-"
-
-                            YaoGan - 5
-                        
-", , ,2008, ,CAST - China
+",680, ,2013, ,Airbus Defence and Space,Airbus Defence and Space,N/A

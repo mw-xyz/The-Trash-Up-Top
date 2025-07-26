@@ -19,12 +19,40 @@ with open('Dataset-2.csv', newline='') as ds2:
             [Repeat Cycle (days)] INTEGER,
             [Launched in] INTEGER,
             [Out of service since (years)] INTEGER,
-            [Organisation] TEXT
+            [Organisation] TEXT,
+            [Company] TEXT,
+            [Country] TEXT
         )
     """)
     for row in reader:
         selected_row = [row[i] for i in indices]
-        cursor.execute("INSERT INTO Satellite VALUES (?, ?, ?, ?, ?, ?)", selected_row)
+        # Handle missing values in Repeat Cycle
+        """Placeholder"""
+        # Split organisation into company and country
+        full_organisation = row[-1]
+        parts = full_organisation.split(" - ")
+        company = parts[0]
+        if len(parts) > 1:
+            country = parts[1]
+        else:
+            if company == "US Naval Research Lab":
+                country = "USA"
+            elif company == "ESA":
+                country = "N/A"
+            elif "Turkey" in company:
+                company = "TUBITAK UZAY/STRI"
+                country = "Turkey"
+            elif "US" in company or "NOAA" in company:
+                country = "USA"
+            elif "UK" in company:
+                country = "UK"
+            elif any(org in company for org in ("EUMETSAT", "ImageSat International", "ESA")):
+                country = "IGO"
+            else:
+                country = "N/A"
+            # Send all new information into the database
+            cursor.execute("INSERT INTO Satellite VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            (*selected_row, company, country))
 
 # Thanks ChatGPT
 
