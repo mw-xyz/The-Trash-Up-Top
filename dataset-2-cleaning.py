@@ -21,7 +21,7 @@ with open('Dataset-2.csv', newline='') as ds2:
 
     cursor.execute("""
         CREATE TABLE Satellite (
-            [Name] TEXT PRIMARY KEY,
+            [Name] TEXT, -- PRIMARY KEY
             [Orbit Height (km)] INTEGER,
             [Repeat Cycle (days)] INTEGER,
             [Launched in] INTEGER,
@@ -29,7 +29,8 @@ with open('Dataset-2.csv', newline='') as ds2:
             [Organisation] TEXT,
             [Company] TEXT,
             [Country] TEXT,
-            [Type of Orbit] TEXT
+            [Type of Orbit] TEXT,
+            [Path1] INTEGER
         )
     """)
     for row in reader:
@@ -88,11 +89,13 @@ with open('Dataset-2.csv', newline='') as ds2:
             else:
                 country = "N/A"
 
-        # Send all new information into the database
-        cursor.execute("INSERT INTO Satellite VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-        (*selected_row, company, country, orbit_type))
+        # Add path request
+        cursor.execute("INSERT INTO Satellite VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (*selected_row, company, country, orbit_type, 1))
 
-# Thanks ChatGPT
+        # Send all new information into the database
+        cursor.execute("INSERT INTO Satellite VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        (*selected_row, company, country, orbit_type, 361))
 
 with open('dataset_2_cleaned.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
